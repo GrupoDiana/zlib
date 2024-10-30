@@ -31,6 +31,7 @@ contrib/vstudio/vc143/x86
 contrib/vstudio/vc143/x64
 contrib/vstudio/vc143/arm
 contrib/vstudio/vc143/arm64
+contrib/vstudio/vc17_android/arm64
 contrib/nuget/bin
 contrib/nuget/obj
 *.included
